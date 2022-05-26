@@ -1,7 +1,7 @@
 <h1>3D-files</h1>
-<img src="https://img.shields.io/github/repo-size/M-A-P-Organisation/3D-files?style=for-the-badge">
+<p><img src="https://img.shields.io/github/repo-size/M-A-P-Organisation/3D-files?style=for-the-badge">
 <img src="https://img.shields.io/github/license/M-A-P-Organisation/3D-Files?style=for-the-badge">
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></p>
 
 <h2>Information</h2>
 These are the 3D parts needed for the M-A-P. I have personnaly printed them  at 125% of the actual width.
