@@ -7,5 +7,5 @@
 These are the 3D parts needed for the M-A-P. I have personnaly printed them  at 125% of the actual width.
 
 <h3>repository organisation</h3>
-You will find on the <code>deprecated/</code> section ideas I had for the M-A-P, the arduino parts are in <code>arduino/</code> and the raspebrry pi part under <code>`raspberry_pi/`</code>. 
+You will find on the <code>deprecated/</code> section ideas I had for the M-A-P, the arduino parts are in <code>arduino/</code> and the raspebrry pi part under <code>raspberry_pi/</code>. 
 You will also find the <code>.gcode</code> i personnally printed with my anycubic i3 mega.
